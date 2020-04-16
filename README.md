@@ -21,17 +21,17 @@
 
 ### 1 - Iniciando Backend
 
-  `yarn install` <br/>
+  `install yarn` <br/>
   `yarn start`
 ***
 ### 2 - Iniciando Frontend
 
-  `yarn install` <br/>
+  `install yarn ` <br/>
   `yarn start`
 ***
 ### 3 - Iniciando Mobile
 
-  `yarn install` <br/>
+  `install yarn ` <br/>
   `yarn start`
 ***
 ### 4 - Tecnologias
